@@ -11,11 +11,8 @@ To get started with the project, follow these steps:
 2. Link to download Node.js : https://nodejs.org/en/download
 3. type in prompt the command: npm create vite@latest client --template vanilla
 
-Clone the repository to your local machine.
-Run npm install to install all the dependencies.
-Run npm run dev to start the development server.
-Usage
-You need to get OpenAI API key, which can be found there: 
+
+You need to get OpenAI API key, which can be found there: https://beta.openai.com/account/api-keys
 
 OpenAI API documentation can be found there: https://platform.openai.com/docs/api-reference
 
