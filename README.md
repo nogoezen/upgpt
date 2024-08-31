@@ -1,12 +1,9 @@
 # UpGPT
 
 
-This is a Next.js project created . It is built with [list of technologies used].
-This is a Javascript project creatad as personal porfolio. It is built with Vite.js and OpenAI API. 
-
+This is a Next.js project created. 
 ## Getting Started
 To get started with the project, follow these steps:
-
 1. To check which Node version you have on your computer : node -v
 2. Link to download Node.js : https://nodejs.org/en/download
 3. type in prompt the command: npm create vite@latest client --template vanilla
